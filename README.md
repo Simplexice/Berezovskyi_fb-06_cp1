@@ -5,4 +5,3 @@ as well as the values of H1 and H2 on an arbitrarily chosen text in Russian of s
 where the probabilities are replaced by the corresponding frequencies. Also get the values of H1 and H2 on the same text, 
 in which all spaces are removed.
 
-Translated with DeepL.com (free version)
